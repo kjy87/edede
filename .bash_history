@@ -1,0 +1,37 @@
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh 
+stop
+-su stop
+#credits
+-su: stop: command not found
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+refresh
+wget 
+refresh
+refresh
+refresh
+~refresh
+refresh
+refresh
+refresh
+refresh
